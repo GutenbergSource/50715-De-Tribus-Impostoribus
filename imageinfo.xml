@@ -1,0 +1,28 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/flame.png" filesize="1792" filedate="2015-11-22 07:11:08" width="88px" height="97px">
+</image>
+<image path="images/frederic-empereur.jpg" filesize="59277" filedate="2015-11-22 07:27:27" width="414px" height="720px">
+</image>
+<image path="images/french-titlepage.png" filesize="19304" filedate="2015-11-22 07:03:49" width="480px" height="644px">
+</image>
+<image path="images/german-titlepage.png" filesize="7701" filedate="2015-11-22 07:18:20" width="480px" height="523px">
+</image>
+<image path="images/griffin.png" filesize="2454" filedate="2015-11-22 07:13:32" width="101px" height="100px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="10390" filedate="2015-11-22 19:24:19" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="53996" filedate="2015-11-22 19:23:29" width="480px" height="720px">
+</image>
+<image path="images/signature-1716.jpg" filesize="36215" filedate="2015-11-22 07:21:12" width="683px" height="239px">
+</image>
+<image path="images/sphinx.png" filesize="2047" filedate="2015-11-22 07:15:49" width="146px" height="78px">
+</image>
+<image path="images/titlepage.png" filesize="16429" filedate="2015-11-22 07:00:12" width="456px" height="720px">
+</image>
+</images>
